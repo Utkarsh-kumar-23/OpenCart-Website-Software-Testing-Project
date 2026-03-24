@@ -7,7 +7,6 @@ LinkedIn: https://www.linkedin.com/in/utkarsh-sharma12/
 
 GitHub: https://github.com/Utkarsh-kumar-23
 
-Date: 8-Feb-2025
 
 Project Overview
 
